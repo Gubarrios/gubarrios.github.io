@@ -1,0 +1,62 @@
+html {
+    font-size: 09px;
+    font-family: 'Press Start 2p', cursiva;
+    color: #086905;
+    background-color: #00539F
+}
+
+body {
+    width: 600px;
+    height: 931px;
+    margin: 0 auto;
+    background-color: #262626;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    font-size: 25px;
+    text-align: center;
+    color: #FFD526;
+    text-shadow: 3px 3px 3px #00CAE9;
+}
+
+h2 {
+    font-size: 15px;
+    text-align: center;
+    color: #FEA216;
+    text-shadow: 3px 3px 3px #C32BBC;
+}
+
+.legenda-imagem {
+    font-size: 15px;
+    color: #FFD526;
+    text-align: center;
+    text-shadow: 3px 3px 3px #49BE35;
+}
+
+.lista-01 {
+    font-size: 12px;
+    color: #FEA216;
+    text-shadow: 3px 3px 3px #C32BBC;
+}
+
+.eu {
+    display: block;
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.link-instagram {
+    padding: 0 250px;
+    color: #FFD526;
+    text-shadow: 3px 3px 3px #00CAE9;
+}
+
+
+.botãozinho {
+    color: white;
+    background: #FFD526;
+    border: 0px;
+}
