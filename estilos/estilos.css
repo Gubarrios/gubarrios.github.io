@@ -41,7 +41,7 @@ h2 {
     text-shadow: 3px 3px 3px #C32BBC;
 }
 
-.eu {
+.eu-32-bits {
     display: block;
     height: 300px;
     width: 300px;
@@ -49,13 +49,12 @@ h2 {
 }
 
 .link-instagram {
-    padding: 0 250px;
     color: #FFD526;
     text-shadow: 3px 3px 3px #00CAE9;
 }
 
 
-.botãozinho {
+button {
     color: white;
     background: #FFD526;
     border: 0px;
